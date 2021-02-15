@@ -1,2 +1,2 @@
 # sakk
-sakk cpp game
+sakk java game
